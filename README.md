@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as Google Cloud Trainer
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working as Google Cloud Customer Engineer
+- 🌱 I’m currently learning Python/Node
 - 💬 Ask me about Google Cloud
 - 📫 How to reach me:
 <div> 
