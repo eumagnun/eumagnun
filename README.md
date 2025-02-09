@@ -1,8 +1,7 @@
 ### Opa! 👋
 
 - 🔭 I’m currently working as Google Cloud Customer Engineer
-- 🌱 I’m currently learning Python/Node
-- 💬 Ask me about Generative AI on Google Vloud
+- 💬 Ask me about Generative AI on Google Cloud
 - 📫 How to reach me:
 <div> 
   <a href="https://www.youtube.com/channel/UCRE6XUZ5oz8daf_eze-Ax7Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
